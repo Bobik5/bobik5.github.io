@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Area"
-AuthUserFile C:/Users/qwe123/Desktop/js/folder/.htpasswd
+AuthUserFile /home/user/bobik5.github.io/folder/.htpasswd
 Require valid-user
