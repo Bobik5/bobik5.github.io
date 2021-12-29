@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Area"
+AuthUserFile C:/Users/qwe123/Desktop/js/folder/.htpasswd
+Require valid-user
