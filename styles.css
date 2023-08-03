@@ -1,0 +1,29 @@
+html,
+  body {
+    background-image: url('/files/Face/prtscreen.png');
+    cursor: url('/files/cur/unavailiable.cur'), auto;
+}
+
+.img1 {
+	position: absolute;
+	top: 0px;
+	left: 500px;
+}
+
+.rightpic {
+    float: right; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+   }
+
+   a:link, a:visited {
+  background-color: #f43636;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
